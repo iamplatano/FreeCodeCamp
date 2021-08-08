@@ -1,5 +1,2 @@
-#changes in git
-Projects done for FreeCodeCamp Certifications
-
-#change
+#Projects done for FreeCodeCamp Certifications
 
